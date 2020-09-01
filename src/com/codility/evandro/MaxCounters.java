@@ -1,6 +1,6 @@
 package com.codility.evandro;
 
-/*You are given N counters, initially set to 0, and you have two possible operations on them:
+/* You are given N counters, initially set to 0, and you have two possible operations on them:
 
     - increase(X) − counter X is increased by 1,
     - max counter − all counters are set to the maximum value of any counter.
@@ -54,7 +54,7 @@ the function should return [3, 2, 2, 4, 2], as explained above.
 Write an efficient algorithm for the following assumptions:
 
     - N and M are integers within the range [1..100,000];
-    - each element of array A is an integer within the range [1..N + 1].*/
+    - each element of array A is an integer within the range [1..N + 1]. */
 public class MaxCounters {
 
     public int[] solution(int N, int[] A) {

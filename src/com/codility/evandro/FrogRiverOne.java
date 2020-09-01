@@ -3,7 +3,7 @@ package com.codility.evandro;
 import java.util.HashSet;
 import java.util.Set;
 
-/*A small frog wants to get to the other side of a river. The frog is initially located on one bank of the river (position 0) and wants to get to the opposite bank (position X+1).
+/* A small frog wants to get to the other side of a river. The frog is initially located on one bank of the river (position 0) and wants to get to the opposite bank (position X+1).
 
 Leaves fall from a tree onto the surface of the river.
 
@@ -52,7 +52,7 @@ the function should return 6, as explained above.
 Write an efficient algorithm for the following assumptions:
 
     - N and X are integers within the range [1..100,000];
-    - each element of array A is an integer within the range [1..X].*/
+    - each element of array A is an integer within the range [1..X]. */
 public class FrogRiverOne {
 
     public int solution(int X, int[] A) {
