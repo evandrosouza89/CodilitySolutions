@@ -14,3 +14,4 @@ A set of solutions to some Codility (https://www.codility.com) challenges.
 |[FrogRiverOne](https://app.codility.com/demo/results/training7CBT6H-MEE) | [FrogRiverOne.java](src/com/codility/evandro/FrogRiverOne.java)|
 |[MaxCounters](https://app.codility.com/demo/results/trainingHCMU6B-THN) | [MaxCounters.java](src/com/codility/evandro/MaxCounters.java)|
 |[MissingInteger](https://app.codility.com/demo/results/trainingX79SWH-CXJ) | [MissingInteger.java](src/com/codility/evandro/MissingInteger.java)|
+|[PermCheck](https://app.codility.com/demo/results/trainingPYA5TJ-2KH) | [PermCheck.java](src/com/codility/evandro/PermCheck.java)|
