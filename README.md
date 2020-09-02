@@ -16,3 +16,4 @@ A set of solutions to some Codility (https://www.codility.com) challenges.
 |[MissingInteger](https://app.codility.com/demo/results/trainingX79SWH-CXJ) | [MissingInteger.java](src/com/codility/evandro/MissingInteger.java)|
 |[PermCheck](https://app.codility.com/demo/results/trainingPYA5TJ-2KH) | [PermCheck.java](src/com/codility/evandro/PermCheck.java)|
 |[CountDiv](https://app.codility.com/demo/results/training38KNA5-YET) | [CountDiv.java](src/com/codility/evandro/CountDiv.java)|
+|[GenomicRangeQuery](https://app.codility.com/c/close/trainingMJTWSA-8A8) | [GenomicRangeQuery.java](src/com/codility/evandro/GenomicRangeQuery.java)|
