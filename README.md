@@ -18,3 +18,4 @@ A set of solutions to some Codility (https://www.codility.com) challenges.
 |[CountDiv](https://app.codility.com/demo/results/training38KNA5-YET) | [CountDiv.java](src/com/codility/evandro/CountDiv.java)|
 |[GenomicRangeQuery](https://app.codility.com/demo/results/trainingMJTWSA-8A8) | [GenomicRangeQuery.java](src/com/codility/evandro/GenomicRangeQuery.java)|
 |[MinAvgTwoSlice](https://app.codility.com/demo/results/trainingQHB7SR-5ZX) | [MinAvgTwoSlice.java](src/com/codility/evandro/MinAvgTwoSlice.java)|
+|[PassingCars](https://app.codility.com/demo/results/trainingTUSCAG-SQW) | [PassingCars.java](src/com/codility/evandro/PassingCars.java)|
